@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia, hoje sou um **Dev Padawan** e estou buscando melh
 ---
 ### Segue um resuminho. 📃
 
-- 🔭 Atualmente estou focado em **aprimorar meus conhecimentos** e conseguir meu sim na **área de desenvolvimento**.
+- 🔭 Atualmente estou focado em **aprimorar meus conhecimentos** e estar cada vez mais preparado para **mercado**.
 - 🌱 Sou formado em **Análise e Desenvolvimento de Sistemas** pela **Estácio**.
 
 ### Bora fazer Networking? 🚀
