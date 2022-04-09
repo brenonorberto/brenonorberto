@@ -1,7 +1,7 @@
 # :sunglasses: Breno Norberto
 Desenvolvedor Front End
 
-Sou apaixonado por tecnologia, estou sempre em constate evolução, buscando aprimorar meus conhecimetos e adquirir novos!
+Sou apaixonado por tecnologia, estou sempre em constate evolução, buscando aprimorar meus conhecimentos e adquirir novos!
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brenonorberto&show_icons=true&theme=dracula&custom_title=Breno%20Norberto)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonorberto&theme=dracula&layout=compact&custom_title=Minhas%20linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
 ---
