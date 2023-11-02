@@ -13,7 +13,6 @@ Sou apaixonado por tecnologia, estou sempre em constate evolução, buscando apr
 ### Bora fazer Networking? 🚀
 
   [![](https://img.shields.io/badge/Linkedin-Let's%20be%20friends%20-blue)](https://www.linkedin.com/in/brenonorberto/)
-  [![](https://img.shields.io/badge/whatsapp-BrenoNorberto-success)](https://api.whatsapp.com/send?phone=5585999863531)
   [![](https://img.shields.io/badge/Gmail-Breno%20Norberto%20-lightgrey)](mailto:brenonorberto@gmail.com)
  
 
