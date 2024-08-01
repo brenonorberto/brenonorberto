@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia, estou sempre em constate evolução, buscando apr
 ---
 ### Segue um resuminho. 📃
 
-- 🔭 Atualmente estou focado em **aprimorar meus conhecimentos** e estar cada vez mais preparado para **mercado**.
+- 🔭 Atualmente estou como **Desenvolvedor FrontEnd**, continuo estudando para aprimorar os conhecimentos já adquiridos, e buscando aprender novas tecnologias que possam impulsionar minha carreira.
 - 🌱 Sou formado em **Análise e Desenvolvimento de Sistemas** pela **Estácio**.
 
 ### Bora fazer Networking? 🚀
