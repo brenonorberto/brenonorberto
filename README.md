@@ -4,10 +4,10 @@
 Olá! Sou Breno Norberto, um desenvolvedor Front End com uma paixão insaciável por tecnologia. Minha missão é criar interfaces intuitivas e elegantes que proporcionem a melhor experiência ao usuário.
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenonorberto&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenonorberto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="195" alt="languages graph"  />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenonorberto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenonorberto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
 </div>
 
 ###
